@@ -8,6 +8,7 @@ import PlantPage from "./PlantPage";
 function App() {
 
   const[plants, setPlants]= useState([])
+  
  
 useEffect (
   () => {
